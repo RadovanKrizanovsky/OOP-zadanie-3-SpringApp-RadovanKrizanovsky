@@ -1,4 +1,13 @@
-# Zadanie 3 - Knihy
+
+
+<table align="center">
+  <tr>
+    <th>Entire assignment is repost from my other profile</th>
+  </tr>
+</table>
+
+
+# Zadanie 3 - Knihy (Spring)
 B-OOP 2022
 
 Vašou úlohou je naprogramovať aplikačný server v jazyku Java s pomocou frameworku Spring.
